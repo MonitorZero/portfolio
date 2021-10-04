@@ -10,8 +10,6 @@
     box-shadow: 3px 3px 3px #333;
 }
 
-
-
 body {
     background-color: #000000;
     color: #555555;
@@ -63,9 +61,13 @@ nav {
 #aboutme{
     padding-top: 1px;
     padding-right: 200px;
-    padding-bottom: 200px;
+    padding-bottom: 110px;
     padding-left: 20px;
     display: block;
+}
+
+#aboutmeP {
+    font-size-adjust: .60;    
 }
 
 main {
@@ -117,11 +119,21 @@ h2 {
 
 h3 {
     color: #000033;
+    font-size-adjust: .60;
 }
 
-dt {color: #002171;}
+dt {
+    color: #002171;
+}
 
-ul {list-style-image: url(marker.gif);}
+ul {
+    list-style-image: url(marker.gif);
+    font-size-adjust: .60;
+}
+
+p {
+    font-size-adjust: .60;
+}
 
 #contact {font-size: 90%;}
 

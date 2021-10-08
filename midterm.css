@@ -47,9 +47,20 @@
 }
 
 #crypto {
+    padding-top: 10px;
+}
+
+#gameboy {
     padding-top: 20%;
 }
 
+#gba1 {
+    max-width: 100%;
+}
+
+#gba2 {
+    max-width: 75%;
+}
 
 /* All element for the page */
 
@@ -144,3 +155,4 @@ footer {
     background-color: #555555; 
     color: white;
 }
+

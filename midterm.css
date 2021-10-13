@@ -1,8 +1,6 @@
 /* Andrew Janicke 10/4/21 
     CSS for both pages of the Midterm */
 
-/* ID styling for the pages. */
-
 /* Global Wrapper */
 #wrapper { 
     background-color: #FFFFFF;
@@ -14,6 +12,7 @@
     box-shadow: 3px 3px 3px #333;
 }
 
+/* ID styling for the pages. */
 /* Main Page */
 #workhistory {
     text-align: center;
@@ -46,10 +45,6 @@
     margin: 0px 10px 10px 10px ;
 }
 
-#crypto {
-    padding-top: 10px;
-}
-
 #gameboy {
     padding-top: 10%;
 }
@@ -58,7 +53,7 @@
     max-width: 100%;
 }
 
-/* All element for the page */
+/* All elements for the pages */
 
 body {
     background-color: #000000;

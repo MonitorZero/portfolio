@@ -57,6 +57,16 @@
     margin: 0px 10px 10px 10px ;
 }
 
+#certs {
+    padding: 10px, 10px, 10px, 10px;
+}
+
+#nmap {
+    max-width: 50%;
+    float: left;
+    margin: 0px 10px 10px 10px ;
+}
+
 #gameboy {
     padding-top: 10%;
 }
